@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WifiLocker" parent="Theme.AppCompat.DayNight">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
